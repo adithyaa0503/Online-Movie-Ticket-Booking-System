@@ -6,3 +6,10 @@ User Side
  Interactive seat selection map (Available / Booked / Selected states)
  Booking summary and confirmation with booking ID
  View booking history
+
+Admin Side
+
+Add / Edit / Delete movies with poster and details
+Schedule showtimes for movies at specific theatres
+Manage theatres and hall seat configurations
+View all bookings and occupancy stats
