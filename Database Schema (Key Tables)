@@ -1,0 +1,1 @@
+TableDescriptionUsersRegistered users with login credentialsMoviesMovie title, genre, duration, cast, ratingTheatresTheatre name, location, number of hallsShowsMovie × Theatre × Datetime × HallSeatsSeat layout per hall (row, column, type)BookingsUser × Show × Selected Seats
