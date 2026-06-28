@@ -1,0 +1,17 @@
+# Clone the repository
+git clone https://github.com/adithyaa0503/online-movie-ticket-booking.git
+cd online-movie-ticket-booking
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Initialize the database
+python -c "from app import db; db.create_all()"
+# or
+mysql -u root -p < schema/init_db.sql
+
+# Run the application
+python app.py
+
+# Open in browser
+# http://localhost:5000
