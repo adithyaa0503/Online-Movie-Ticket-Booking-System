@@ -1,2 +1,2 @@
 # Online-Movie-Ticket-Booking-System
-A deep learning–based image classification system that identifies crop diseases from leaf images, helping farmers detect plant health issues early and take timely action.
+A full-stack web application that allows users to browse movies, select seats, and book tickets online — with an admin panel to manage movies, shows, and theatres.
