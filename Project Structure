@@ -1,0 +1,22 @@
+online-movie-ticket-booking/
+│
+├── static/
+│   ├── css/
+│   └── js/
+├── templates/
+│   ├── index.html
+│   ├── movies.html
+│   ├── seat_selection.html
+│   ├── booking_confirm.html
+│   └── admin/
+│       ├── dashboard.html
+│       └── manage_movies.html
+├── app.py
+├── models.py
+├── routes/
+│   ├── user_routes.py
+│   └── admin_routes.py
+├── schema/
+│   └── init_db.sql
+├── requirements.txt
+└── README.md
