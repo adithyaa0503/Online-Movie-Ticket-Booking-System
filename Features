@@ -1,0 +1,8 @@
+User Side
+
+ User registration and login (with session/JWT auth)
+ Browse now-showing and upcoming movies with search and filter
+ Select theatre and available showtimes
+ Interactive seat selection map (Available / Booked / Selected states)
+ Booking summary and confirmation with booking ID
+ View booking history
