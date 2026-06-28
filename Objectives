@@ -1,0 +1,5 @@
+Allow users to register, log in, and manage their bookings
+Display movies with details (genre, duration, cast, ratings)
+Let users select theatre, showtime, and specific seats from a visual seat map
+Process bookings and generate booking confirmations
+Provide an admin panel to add/edit/remove movies, shows, and seat layouts
